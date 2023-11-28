@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="rocky_mountain" size="2.000000 1.359223" />
+    <ImageTarget name="snow_mountain" size="2.000000 1.921569" />
+  </Tracking>
+</QCARConfig>
